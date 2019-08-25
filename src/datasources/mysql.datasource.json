@@ -1,0 +1,10 @@
+{
+  "name": "mysql",
+  "connector": "mysql",
+  "url": "",
+  "host": "localhost",
+  "port": 0,
+  "user": "lb4test",
+  "password": "lb4test",
+  "database": "rsgoldempirelb4test"
+}
